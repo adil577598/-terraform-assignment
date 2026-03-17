@@ -1,2 +1,8 @@
-# -terraform-assignment
-Terraform EC2 and S3 setup
+
+# Terraform Assignment
+
+This project includes:
+
+- EC2 instance creation using Terraform
+- S3 bucket creation
+- AWS provider configuration 
